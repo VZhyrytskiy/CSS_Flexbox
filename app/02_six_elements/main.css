@@ -1,0 +1,21 @@
+.container {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background-color: silver; 
+}
+
+.flex-item {
+	height: 150px;
+	width: 200px;
+	margin: 10px;
+
+	background-color: blue;
+	color: white;
+	
+	line-height: 150px;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+}
+

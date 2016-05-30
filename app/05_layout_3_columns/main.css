@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	text-align: center;
+}
+.header {
+	background: blue;
+}
+.main {
+	background: grey; 
+	text-align: left;
+}
+.nav {
+	background: gold;
+}
+.aside {
+	background: hotpink;
+}
+.footer {
+	background: green;
+}
