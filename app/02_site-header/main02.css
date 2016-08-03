@@ -1,0 +1,34 @@
+.site-header {
+	padding: 10px;
+	background-color: #56727C;
+}
+
+	.site-header-section {
+		
+	}
+
+	.site-header-item {
+		padding: 5px 15px;
+		font-size: 12px;
+	}
+
+	.site-header-item + .site-header-item {
+		margin-left: 5px;
+	}
+
+	.site-header-item.is-site-header-item-selected {
+		color: #FFFFFF;
+		background-color: #415F69;
+		border-radius: 4px;
+	}
+
+	.site-header-logo {
+		font-size: 20px;
+		line-height: 0;
+		color: white;
+	}
+
+	.site-header-button {
+		cursor: pointer;
+		color: #D9E9EF;
+	}

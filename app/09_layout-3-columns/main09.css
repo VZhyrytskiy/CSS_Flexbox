@@ -4,6 +4,10 @@
 .container {
 	text-align: center;
 }
+	.container > * {
+		padding: 10px;
+	}
+
 .header {
 	background: blue;
 }
@@ -20,3 +24,24 @@
 .footer {
 	background: green;
 }
+
+
+@media all and (min-width: 992px) {
+	.nav, .aside {
+	}
+}
+
+
+@media all and (min-width: 1200px) {
+	.nav {
+	}
+	.main {
+	}
+	.aside {
+	}
+	.footer {
+	}
+}
+
+
+

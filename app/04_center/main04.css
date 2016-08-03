@@ -1,0 +1,39 @@
+.centered-prompt {
+	min-height: 300px;
+	padding: 10px;
+}
+
+	.centered-prompt-item + .centered-prompt-item {
+		margin-top: 5px;
+	}
+
+	.centered-prompt-icon {
+		font-size: 60px;
+		line-height: 0;
+	}
+
+	.centered-prompt-label {
+		color: #86969C;
+		font-size: 30px;
+		font-weight: 700;
+		text-align: center;
+	}
+
+	.centered-prompt-details {
+		color: #86969C;
+		font-size: 16px;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+
+.icon {
+	color: #BCD2DA;
+}
+
+.button {
+	padding: 5px 15px;
+	color: #FFF;
+	background-color: #4EBBE4;
+	border: 1px solid #16A2D7;
+	border-radius: 4px;
+}

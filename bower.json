@@ -1,0 +1,20 @@
+{
+  "name": "flexbox",
+  "version": "0.0.1",
+  "description": "Example",
+  "authors": [
+    "Vitaliy Zhyrytskyy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/js/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}

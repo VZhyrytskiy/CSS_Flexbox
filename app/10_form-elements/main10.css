@@ -1,0 +1,14 @@
+.form {
+	width: 25%;
+	padding: 0;
+	margin: 0;
+	
+	border: 1px solid silver;
+}
+.label {
+}
+.input {
+	margin-right: 5px;
+}
+
+
